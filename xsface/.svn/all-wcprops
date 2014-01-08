@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/61/trunk
+END
+face_code_density.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/57/trunk/face_code_density.m
+END
+face_code.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/17/trunk/face_code.m
+END
+read_dets.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/53/trunk/read_dets.m
+END
+output_preds.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/53/trunk/output_preds.m
+END
+svn-commit.tmp~
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/54/trunk/svn-commit.tmp~
+END
+run_hmm.m
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/53/trunk/run_hmm.m
+END
+readLDTpreds_journal.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/58/trunk/readLDTpreds_journal.m
+END
+evaluation.m
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/62/trunk/evaluation.m
+END
+detector_movie.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/7/trunk/detector_movie.m
+END
+detector_analyses.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/7/trunk/detector_analyses.m
+END
+annotate_faces.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/62/trunk/annotate_faces.m
+END
+detector_figure.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/50/trunk/detector_figure.m
+END
+annotate_gold_preds.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/62/trunk/annotate_gold_preds.m
+END
+readLDTpreds.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/59/trunk/readLDTpreds.m
+END
+detector_figure_LDT.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/59/trunk/detector_figure_LDT.m
+END
+face_code_density_journal.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/61/trunk/face_code_density_journal.m
+END

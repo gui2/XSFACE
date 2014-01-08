@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/35/trunk/data/demographics
+END
+demographics.csv
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/trunk/data/demographics/demographics.csv
+END
+success_rates.csv
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/data/demographics/success_rates.csv
+END
+face_looking.csv
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/35/trunk/data/demographics/face_looking.csv
+END

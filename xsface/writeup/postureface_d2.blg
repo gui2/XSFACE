@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/MacPorts 2012_2)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: postureface_d2.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Database file #1: postureface.bib.bib
+apacite.bst [2012/02/25 v6.01 APA bibliography style]
+Warning--No journal in walleunderreview
+Warning--No address in zeedyk2008
+You've used 19 entries,
+            6735 wiz_defined-function locations,
+            1343 strings with 13210 characters,
+and the built_in function-call counts, 35564 in all, are:
+= -- 4423
+> -- 324
+< -- 1654
++ -- 1669
+- -- 38
+* -- 2248
+:= -- 6438
+add.period$ -- 81
+call.type$ -- 19
+change.case$ -- 323
+chr.to.int$ -- 0
+cite$ -- 40
+duplicate$ -- 917
+empty$ -- 1422
+format.name$ -- 545
+if$ -- 6812
+int.to.chr$ -- 0
+int.to.str$ -- 38
+missing$ -- 0
+newline$ -- 490
+num.names$ -- 152
+pop$ -- 600
+preamble$ -- 1
+purify$ -- 74
+quote$ -- 0
+skip$ -- 2391
+stack$ -- 0
+substring$ -- 1831
+swap$ -- 533
+text.length$ -- 43
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 1648
+warning$ -- 2
+while$ -- 178
+width$ -- 0
+write$ -- 629
+(There were 2 warnings)

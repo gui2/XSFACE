@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/53/trunk/scripts
+END
+get_frametimes.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/46/trunk/scripts/get_frametimes.py
+END
+makeframes_trueframerate.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/53/trunk/scripts/makeframes_trueframerate.py
+END
+extract_frametimes.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/scripts/extract_frametimes.py
+END
+makeframes_30fps.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/47/trunk/scripts/makeframes_30fps.py
+END
+convert_naming_codes.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/scripts/convert_naming_codes.py
+END

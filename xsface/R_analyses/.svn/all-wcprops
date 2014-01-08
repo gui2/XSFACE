@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/54/trunk/R_analyses
+END
+namings_and_faces.R
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/54/trunk/R_analyses/namings_and_faces.R
+END
+helper.R
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/54/trunk/R_analyses/helper.R
+END
+merge_all_data.R
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/54/trunk/R_analyses/merge_all_data.R
+END
+demographics_ana.R
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/41/trunk/R_analyses/demographics_ana.R
+END
+posture_and_faces.R
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/52/trunk/R_analyses/posture_and_faces.R
+END
+posture_and_orientation.R
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/51/trunk/R_analyses/posture_and_orientation.R
+END

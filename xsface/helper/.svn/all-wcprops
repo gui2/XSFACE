@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/61/trunk/helper
+END
+subsetF.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/32/trunk/helper/subsetF.m
+END
+computeF_final.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/61/trunk/helper/computeF_final.m
+END
+kappa.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/61/trunk/helper/kappa.m
+END
+getCharInput.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7/trunk/helper/getCharInput.m
+END
+non_isect_frames.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/53/trunk/helper/non_isect_frames.m
+END
+permute_array.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/20/trunk/helper/permute_array.m
+END
+computeF.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/34/trunk/helper/computeF.m
+END
